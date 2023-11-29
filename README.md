@@ -1,2 +1,2 @@
-# Project-Sanmi
-Rencana Ke depan saya
+# Template Component Web
+Using HTML,CSS And JavaScript
